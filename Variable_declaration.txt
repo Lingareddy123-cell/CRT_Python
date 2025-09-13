@@ -1,0 +1,26 @@
+#Rules For declaring variables
+#Rule1
+abcABC=12
+print(abcABC)
+
+#Rule2
+ab123=12
+print(ab123)
+
+#Rule3
+_abc=12
+print(_abc)
+
+
+#Rule4
+abcddddddddddddddddddddddddddddddddddddd=12
+print(abcddddddddddddddddddddddddddddddddddddd)
+
+#Rule5
+a=12
+A=14
+print(id(a),id(A))
+
+#Rule6
+import keyword
+print(keyword.kwlist)
